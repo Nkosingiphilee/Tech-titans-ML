@@ -1,6 +1,20 @@
 h2{
     color: rgb(175, 242, 245);
+    text-align: center;
+    margin-top: 4rem;
 }
 body{
     background-color: rgb(5, 106, 121);
+}
+
+ul{
+display: flex;
+list-style: none;
+position:relative;
+margin-left: 1000px;
+
+}
+li{
+    padding: 10px;
+    
 }
